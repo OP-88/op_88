@@ -30,7 +30,6 @@
 ### 📫 Connect With Me
 - 📧 Email: **markmunene827@gmail.com**
 - 💬 Discord: `@marc_jm.`
-- 🤖 Telegram Bot: [@myutilitybot](https://t.me/myutilitybot)
 
 ---
 
