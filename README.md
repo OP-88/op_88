@@ -1,4 +1,4 @@
-# 👋🏾 Hi, I'm Mark. M. Munyiri
+# 👋🏾 Hii !!!
 
 💻 Software Developer | 🤖 Bot Architect | 🧠 AI Tools Builder  
 🎓 Diploma in Software Engineering – Zetech University (Grad: Sept 2026)  
@@ -29,7 +29,7 @@
 
 ### 📫 Connect With Me
 - 📧 Email: **markmunene827@gmail.com**
-- 💬 Discord: `@marc_jm.`
+- 💬 Discord: `@op._.88.`
 
 ---
 
