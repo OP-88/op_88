@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markmunene827@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254741886442)
 
-Full stack Developer | Cybersecurity Enthusiast
+**Full stack Developer | Cybersecurity Enthusiast**
 
 </div>
 
