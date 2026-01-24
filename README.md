@@ -379,6 +379,8 @@ Planned open-source authentication library implementing modern 2FA methods with 
   
 ### 📧 Best Ways to Reach Me:
 
+<div align="center">
+
 ```yaml
 preferred_contact:
   professional: "Email (markmunene827@gmail.com)"
